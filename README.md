@@ -47,7 +47,7 @@ pip install streamlit
 
 You can access the live demo of the app here: [Livestock Emissions Dashboard](https://livestock-emissions.streamlit.app/)
 
-## Running the App
+### Initiating the App
 
 To run the app locally, clone the repository on your local machine. Then, execute the following command in your terminal:
 
@@ -58,7 +58,8 @@ streamlit run 1_Introduction.py
 This will launch the app in your default web browser.
 
 
-## Links
+## Links-
+- [Livestock Emissions Dashboard](https://livestock-emissions.streamlit.app/)
 - [GitHub](https://github.com/yusufokunlola/Livestock_Emissions)
 - [Google Drive Folder](https://drive.google.com/drive/folders/1sQ-lBADqbNadsi9QJCHR9ptA6fWX705A)
 - [Google Colab Notebook](https://drive.google.com/drive/folders/1sQ-lBADqbNadsi9QJCHR9ptA6fWX705A)
