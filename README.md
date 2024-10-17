@@ -35,6 +35,29 @@ Data Source: [FAO Website](https://www.fao.org/faostat/en/#data/GLE)
 - FAO Source: FAO TIER 1 
 
 
+## Dashboard
+
+Before running the app, ensure that you have `Streamlit` installed. You can install Streamlit using pip:
+
+```bash
+pip install streamlit
+```
+
+## Demo
+
+You can access the live demo of the app here: [Livestock Emissions Dashboard](https://livestock-emissions.streamlit.app/)
+
+## Running the App
+
+To run the app locally, clone the repository on your local machine. Then, execute the following command in your terminal:
+
+```bash
+streamlit run 1_Introduction.py
+```
+
+This will launch the app in your default web browser.
+
+
 ## Links
 - [GitHub](https://github.com/yusufokunlola/Livestock_Emissions)
 - [Google Drive Folder](https://drive.google.com/drive/folders/1sQ-lBADqbNadsi9QJCHR9ptA6fWX705A)
