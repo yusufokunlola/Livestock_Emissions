@@ -45,7 +45,7 @@ pip install streamlit
 
 ## Demo
 
-You can access the live demo of the app here: [Livestock Emissions Dashboard](https://livestock-emissions.streamlit.app/)
+You can access the live demo of the app here: [Livestock Emissions Dashboard](https://livestockemissions.streamlit.app/)
 
 ### Initiating the App
 
