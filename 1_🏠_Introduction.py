@@ -10,7 +10,7 @@ Ruminant animals, particularly cattle, play a crucial role in global food system
 
 Given the growing concern over climate change and the increasing demand for sustainable agricultural practices, there is a pressing need for accurate and reliable methods to assess and manage livestock emissions. This project addresses this critical need by developing innovative solutions for emission prediction and mitigation strategies.
 
-The data was sourced from the [FAOSTAT Emissions database](https://www.fao.org/faostat/en/#data/GLE)
+The data was sourced from the [FAOSTAT Emissions database](https://www.fao.org/faostat/en/#data/GLE).
 """)
 
 st.header("Objectives")
@@ -18,7 +18,7 @@ st.markdown("""
 
 1. To conduct a comprehensive analysis of methane (CH4) emissions from cattle across the globe.
 
-2. To develop and train machine learning model capable of predicting livestock CH4 emissions.
+2. To develop and train machine learning model capable of predicting cattle CH4 emissions.
 
 3. To provide actionable recommendations for stakeholders in the agricultural sector, policymakers, and environmental organizations to reduce livestock-related greenhouse gas emissions and promote sustainable agriculture practices.
 
@@ -30,6 +30,7 @@ st.header("Libraries Used")
 st.markdown("""
 - **Pandas**: For data manipulation and analysis.
 - **Plotly**: For visualization.
+- **Facebook Prophet**: For future predictions.
 - **Streamlit**: For creating the web application interface.
 """)
 
