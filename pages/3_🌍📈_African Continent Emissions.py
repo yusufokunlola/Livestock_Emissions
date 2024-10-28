@@ -3,10 +3,11 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="Livestock Emission Dashboard", page_icon="🐮") 
+st.set_page_config(page_title="African Continent Livestock Methane Emission Dashboard", page_icon="🐮") 
 
+   
 # Title and description
-st.title("The African Continent Livestock Emission Dashboard")
+st.title("The African Continent Livestock Methane Emission Dashboard")
 
 # Load dataset
 africa_data = pd.read_csv('dataset/Cattle_CH4_dataset_cleaned_2000_2021.csv')

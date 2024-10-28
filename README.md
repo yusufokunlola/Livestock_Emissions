@@ -14,9 +14,9 @@ Given the growing concern over climate change and the increasing demand for sust
 
 ## Objectives
 
-1. To conduct a comprehensive analysis of methane (CH4) emissions from cattle across the globe, considering various factors such as breed, feed type, climate conditions, and management practices.
+1. To conduct a comprehensive analysis of methane (CH4) emissions from cattle across the globe.
 
-2. To develop and train machine learning and deep learning models capable of predicting CH4 emissions based on input parameters and environmental conditions.
+2. To develop and train machine learning models capable of predicting cattle CH4 emissions.
 
 3. To provide actionable recommendations for stakeholders in the agricultural sector, policymakers, and environmental organizations to reduce livestock-related greenhouse gas emissions and promote sustainable agriculture practices.
 
@@ -52,14 +52,18 @@ You can access the live demo of the app here: [Livestock Emissions Dashboard](ht
 To run the app locally, clone the repository on your local machine. Then, execute the following command in your terminal:
 
 ```bash
-streamlit run 1_Introduction.py
+streamlit run 1_🏠_Introduction.py
 ```
 
 This will launch the app in your default web browser.
 
 
-## Links-
+## Links
 - [Livestock Emissions Dashboard](https://livestock-emissions.streamlit.app/)
 - [GitHub](https://github.com/yusufokunlola/Livestock_Emissions)
 - [Google Drive Folder](https://drive.google.com/drive/folders/1sQ-lBADqbNadsi9QJCHR9ptA6fWX705A)
 - [Google Colab Notebook](https://drive.google.com/drive/folders/1sQ-lBADqbNadsi9QJCHR9ptA6fWX705A)
+
+## Collaborators
+
+[Yusuf Okunlola, GMNSE](mailto:yusufokunlola@gmail.com) and [Dr. Young Irivboje](mailto:youngiriv@yahoo.com)

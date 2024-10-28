@@ -3,18 +3,18 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-# Load dataset
-df = pd.read_csv('dataset/Cattle_CH4_dataset_cleaned_2000_2021.csv')
-
-st.set_page_config(page_title="Livestock Emissions Dashboard", page_icon="🐮") 
-
+st.set_page_config(page_title="Global Livestock Methane Emissions Dashboard", page_icon="🐮") 
+   
 # Title and description
-st.title("Livestock Emissions Dashboard")
+st.title("Global Livestock Methane Emissions Dashboard")
 st.write("Browse the livestock emission of cattle from the [FAOSTAT Emissions database](https://www.fao.org/faostat/en/#data/GLE).")
 
 # Spacing
 st.write("")
 st.write("")
+
+# Load dataset
+df = pd.read_csv('dataset/Cattle_CH4_dataset_cleaned_2000_2021.csv')
 
 # Create a slider for year range selection
 min_year = int(df['Year'].min())
