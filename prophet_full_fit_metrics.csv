@@ -1,0 +1,11 @@
+Country,MAE (kt),RMSE (kt),R2
+Brazil,136.756,157.418,0.9571
+India,19.973,28.172,0.9903
+United States of America,60.738,71.34,0.7158
+"China, mainland",98.787,119.684,0.9654
+Argentina,157.925,183.06,0.0002
+Mexico,13.207,16.958,0.968
+Australia,37.751,49.818,0.7579
+Russian Federation,23.536,32.093,0.9883
+Ethiopia,44.019,58.79,0.9739
+Colombia,77.084,97.814,0.0028
